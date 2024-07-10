@@ -1,5 +1,5 @@
 ## Node.js 활용 공부
->현재는 실행시 console에 hello world 출력
+>Node.js 에 대한 공부 내용 정리
 
 ## 환경 설정
 ```bash
